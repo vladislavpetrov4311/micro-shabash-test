@@ -1,0 +1,7 @@
+{
+    "name": "micro-shabah-test/micro-shabah-test",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=8.2"
+    }
+}
